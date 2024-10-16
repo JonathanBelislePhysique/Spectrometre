@@ -14,7 +14,6 @@ This README gives the instructions to run, build and create an installer for the
 * The folders build and dist are automatically created and populated by the command : pyinstaller main.spec
 * The folder installer contains the files to create an installer where the .ifg file can be opened with InstallForge
 * The filepaths in the .ifg file are absolute and needs to be changed for each user
-* For loading data with GUI, select the video file, both corresponding .csv and .txt files must be in the same folder
 
 ### How do I get set up? ###
 
