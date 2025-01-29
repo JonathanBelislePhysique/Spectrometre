@@ -4,7 +4,7 @@ Ce README donne les instructions pour exécuter, construire et créer un install
 https://www.youtube.com/watch?v=LIKMNlLCGL0&t=0s
 
 Voici le lien pour télécharger un installateur Windows permettant d'installer une version fonctionnelle du logiciel du spectromètre.
-https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=XwXGxn
+[https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=XwXGxn](https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=ZaXYYv)
 
 ### Description du dépôt? ###
 
@@ -30,7 +30,7 @@ This README gives the instructions to run, build and create an installer for the
 https://www.youtube.com/watch?v=LIKMNlLCGL0&t=0s
 
 Here is the link to download a Windows installer to install the software for the spectrometer.
-https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=XwXGxn
+[https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=XwXGxn](https://etudiantcegeplapocatiereqc-my.sharepoint.com/:u:/g/personal/jbelisle_cegeplapocatiere_qc_ca/EcsTr57cTApBoVmnSrnNA4YBxlXAEklCfjzaFOEjbKdREA?e=ZaXYYv)
 
 ### What is this repository for? ###
 
